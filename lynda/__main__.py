@@ -19,12 +19,10 @@ from lynda.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}!
 // I am an Anime themed group management bot with a lot of Special Features.
-You can find the list of available commands with /help.
 ==========================
--> [Lynda's Repo](https://waa.ai/Lynda)
--> Report [Lynda Support](https://t.me/LyndaEagleSupport) if I go offline
+-> This bot is being managed by [VILLAIN](HTTPS://T.ME/TAGGING_TO_MY_GOD_FATHER)
+-> Report him if I go offline
 ==========================
-`Maintained by` @YorktownEagleUnion
 
 """
 
@@ -49,12 +47,11 @@ Disaster module from [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-LYNDA_IMG = "https://telegra.ph/file/35005c01182645232f2d3.jpg"
+LYNDA_IMG = "https://telegra.ph/file/68ba6b8017f759fcbc0ed.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Lynda is hosted on one of Digital Ocean Servers. \
-You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+You can donate to the original writer of the code.
+There are two ways of supporting him; [PayPal](paypal.me/paulsonoflars), or [Monzo](monzo.me/Tagging_to_my_god_father)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
