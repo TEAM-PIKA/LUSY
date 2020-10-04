@@ -42,16 +42,16 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "AnimeKaizoku"
+         "value": "TAGGING_TO_MY_GOD_FATHER"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "660565862 792109647"
+         "value": ""
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": ""
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -73,12 +73,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "459034222 189005567 660565862 346981140 367222759"
+         "value": ""
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "615304572"
+         "value": ""
       },
       "SARDEGNA_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as Sardegna users.",
@@ -114,5 +114,5 @@
       "Kigyō"
    ],
    "name": "Kigyō bot",
-   "repository": "https://github.com/AnimeKaizoku/Kigyōbot"
+   "repository": "https://github.com/TEAM-PIKA/LUSY"
 }
